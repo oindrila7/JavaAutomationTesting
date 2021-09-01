@@ -1,0 +1,90 @@
+[
+  {
+    "Answer": "1",
+    "Question": "Which of the following is a typical test objective?\n",
+    "Option-1": "Preventing defects",
+    "Option-2": "Repairing defects",
+    "Option-3": "Comparing actual results to expected results",
+    "Option-4": "Analyzing the cause of failure"
+  },
+  {
+    "Answer": "4",
+    "Question": "A phone ringing momentarily distracts a programmer, causing the programmer to improperly \nprogram the logic that checks the upper boundary of an input variable. Later, during system \ntesting, a tester notices that this input field accepts invalid input values. The improperly coded logic \nfor the upper boundary check is:\n",
+    "Option-1": "The root cause",
+    "Option-2": "The failure",
+    "Option-3": "The error",
+    "Option-4": "The defect"
+  },
+  {
+    "Answer": "2",
+    "Question": "A product owner says that your role as a tester on an Agile team is to catch all the bugs before the \nend of each iteration. Which of the following is a testing principle that could be used to respond to \nthis (false) statement?\n",
+    "Option-1": "Defect clustering",
+    "Option-2": "Testing shows the presence of defects",
+    "Option-3": "Absence of error fallacy",
+    "Option-4": "Root cause analysis"
+  },
+  {
+    "Answer": "4",
+    "Question": "Programmers often write and execute unit tests against code which they have written. During this \nself-testing activity, which of the following is a tester mindset that programmers should adopt to \nperform this unit testing effectively?\n",
+    "Option-1": "Good communication skills",
+    "Option-2": "Code coverage",
+    "Option-3": "Evaluating code defects",
+    "Option-4": "Attention to detail"
+  },
+  {
+    "Answer": "3",
+    "Question": "A tester participated in a discussion about proposed database structure. The tester identified a \npotential performance problem related to certain common user searches. This possible problem \nwas explained to the development team. Which of the following is a testing contribution to success \nthat BEST matches this situation?\n",
+    "Option-1": "Enabling required tests to be identified at an early stag",
+    "Option-2": "Ensuring processes are carried out properly",
+    "Option-3": "Reducing the risk of fundamental design defects",
+    "Option-4": "Reducing the risk of untestable functionality"
+  },
+  {
+    "Answer": "2",
+    "Question": "Which of the following is an example of a task that can be carried out as part of the test process?\n",
+    "Option-1": "Analyzing a defect",
+    "Option-2": "Designing test data",
+    "Option-3": "Assigning a version to a test item",
+    "Option-4": "Writing a user story"
+  },
+  {
+    "Answer": "2",
+    "Question": "You are running a performance test with the objective of finding possible network bottlenecks in \ninterfaces between components of a system. Which of the following statements describes this test?\n",
+    "Option-1": "A functional test during the integration test level",
+    "Option-2": "A non-functional test during the integration test level",
+    "Option-3": " A functional test during the component test level",
+    "Option-4": "A non-functional test during the component test level"
+  },
+  {
+    "Answer": "3",
+    "Question": "Which of the following statements is true?\n",
+    "Option-1": "Impact analysis is useful for confirmation testing during maintenance testing",
+    "Option-2": "Confirmation testing is useful for regression testing during system design",
+    "Option-3": "Impact analysis is useful for regression testing during maintenance testing",
+    "Option-4": "Confirmation testing is useful for impact analysis during maintenance testing"
+  },
+  {
+    "Answer": "4",
+    "Question": "A mass market operating system software product is designed to run on any PC hardware with an \nx86-family processor. You are running a set of tests to look for defects related to support of the \nvarious PCs that use such a processor and to build confidence that important PC brands will work. \nWhat type of test are you performing?\n",
+    "Option-1": "Performance Test",
+    "Option-2": "Processor Test",
+    "Option-3": "Functional Test",
+    "Option-4": "Portability Test"
+  },
+  {
+    "Answer": "4",
+    "Question": "During an Agile development effort, a product owner discovers a previously-unknown regulatory \nrequirement that applies to most of the user stories within a particular epic. The user stories are \nupdated to provide for the necessary changes in software behavior. The programmers on the team \nare modifying the code appropriately. As a tester on the team, what types of tests will you run?\n",
+    "Option-1": "Confirmation Tests",
+    "Option-2": "Regression Tests",
+    "Option-3": "Functional Tst",
+    "Option-4": "Change-related Tests"
+  },
+  {
+    "Answer": "1",
+    "Question": "In a formal review, what is the role name for the participant who runs an inspection meeting?\n",
+    "Option-1": "Facilitator",
+    "Option-2": "Programmer",
+    "Option-3": "Author",
+    "Option-4": "Project Manager"
+  }
+]
